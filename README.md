@@ -1,2 +1,2 @@
 # GGQ
-Graph is good . 
+This repository will just contain some really good Graph questions .
